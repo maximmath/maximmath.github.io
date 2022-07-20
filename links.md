@@ -58,10 +58,12 @@ Rankings and Citations:
 <li><a href="https://www.ams.org.libproxy.unm.edu/mathscinet/citations.html" target="_blank">MathSciNet Journal Ranking</a></li>
 <li><a href="https://www.austms.org.au/Rankings/AustMS_final_ranked.html" target="_blank">Australian Journal Ranking</a></li>
 <li><a href="https://qualis.capes.gov.br/webqualis/principal.seam" target="_blank">Brazilian Journal Ranking</a></li>
-<li><a href="https://jcr-clarivate-com/JCRLandingPageAction.action" target="_blank">InCites Thomson Reuters JCR</a></li>
+<li><a href="https://jcr-clarivate-com.libproxy.unm.edu/jcr/browse-journals" target="_blank">InCites Thomson Reuters JCR</a></li>
 <li><a href="https://www.scimagojr.com/journalrank.php?area=2600" target="_blank">Scimago Journal Ranking</a></li>
 <li><a href="https://www.scopus.com/freelookup/form/author.uri" target="_blank">Scopus Author Search</a></li>
 <li><a href="https://www.ams.org/notices/201105/rtx110500653p.pdf" target="_blank">Scientific impact in different fields</a></li>
+<li><a href="https://www.shanghairanking.com/rankings/gras/2021/RS0101" target="_blank">Shanghai Ranking of World Universities</a></li>
+<li><a href="https://research.com/university-rankings/mathematics" target="_blank">Research.com University Ranking</a></li>
 <li><a href="https://www.usnews.com/education/best-global-universities/mathematics" target="_blank">US News Math Programs Ranking</a></li>
 <li><a href="https://www.usnews.com/best-graduate-schools/search?program=top-mathematics-programs&name=&sort=program_rank&sortdir=asc">US News Math Grad Schools Ranking</a></li>
 </ul>
