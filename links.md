@@ -18,6 +18,8 @@ Books:
 
 Articles:
 <ul>
+<li><a href="https://sites.math.washington.edu/~billey/advice/timely.fashion.pdf" target="_blank">
+How to get a PhD in mathematics in a timely fashion</a></li>
 <li><a href="https://math.berkeley.edu/~gmelvin/polya.pdf" target="_blank">
 Polya's Problem Solving Techniques</a></li>
 <li><a href="https://terrytao.wordpress.com/career-advice/" target="_blank">
