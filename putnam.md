@@ -81,7 +81,7 @@ All students with interests in the mathematical sciences are strongly encouraged
 <ul>
 <li><a href="https://www.math.northwestern.edu/~mlerma/problem_solving/putnam/" target="_blank">Northwestern Putnam Training Page</a></li>
 <li><a href="https://www.math.illinois.edu/~ajh/putnam/resources.html" target="_blank">Urbana-Champaign Putnam Resources Page</a></li>
-<li><a href="https://www.math.cmu.edu/~ploh/2022-putnam.shtml" target="_blank">Carnegie Mellon PutnamSeminar Page</a></li>
+<li><a href="https://www.math.cmu.edu/~ploh/2022-putnam.shtml" target="_blank">Carnegie Mellon Putnam Seminar Page</a></li>
 </ul>
 
 <li><a href="https://math.stackexchange.com/questions/305700/studying-for-the-putnam-exam" target="_blank">
