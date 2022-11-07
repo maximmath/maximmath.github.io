@@ -8,7 +8,7 @@ tags:
 #### Putnam Exam at UNM
 Date/Time: First Saturday in December, 8:30am-11:30am & 1:30pm-4:30pm.<br>
 Location: Will be emailed to registered students a few days before the exam.<br>
-Registration: <a href="https://artofproblemsolving.com/contests/putnam/student" target="_blank">Online Registration</a><br>
+Registration: <a href="https://www.maa.org/math-competitions/putnam-competition" target="_blank">Online Registration</a><br>
 Email for general questions: 
 &lt;<script>document.write(
 'z'+'&#105;'+'&#110;'+'ch'+'&#101;'+'nk'+'o'+' '+'&#97;'+'&#116;'+' '+'&#117;'+'n'+'&#109;'+' '+'&#101;'+'d'+'&#117;');</script>&gt;<br>
@@ -79,10 +79,9 @@ All students with interests in the mathematical sciences are strongly encouraged
 
 <li>Other Resources:</li>
 <ul>
-<li><a href="https://www.math.cornell.edu/~putnam/" target="_blank">Cornell</a></li>
-<li><a href="https://www.math.northwestern.edu/~mlerma/problem_solving/putnam/" target="_blank">Northwestern</a></li>
-<li><a href="https://www.math.illinois.edu/~ajh/putnam/resources.html" target="_blank">Urbana-Champaign</a></li>
-<li><a href="https://www.math.lsa.umich.edu/~hderksen/ProblemSolving/ProblemSolving.html" target="_blank">University of Michigan</a></li>
+<li><a href="https://www.math.northwestern.edu/~mlerma/problem_solving/putnam/" target="_blank">Northwestern Putnam Training Page</a></li>
+<li><a href="https://www.math.illinois.edu/~ajh/putnam/resources.html" target="_blank">Urbana-Champaign Putnam Resources Page</a></li>
+<li><a href="https://www.math.cmu.edu/~ploh/2022-putnam.shtml" target="_blank">Carnegie Mellon PutnamSeminar Page</a></li>
 </ul>
 
 <li><a href="https://math.stackexchange.com/questions/305700/studying-for-the-putnam-exam" target="_blank">
