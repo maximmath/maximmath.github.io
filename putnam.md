@@ -27,13 +27,13 @@ All students with interests in the mathematical sciences are strongly encouraged
 <ul>
 <li>Books:</li>
 <ul>
-<li>Kedlaya, Poonen, Vakil, <a href="https://amzn.to/2RL2oz5" target="_blank">
+<li>Kedlaya, Poonen, Vakil, <a href="http://amzn.to/2RL2oz5" target="_blank">
  Putnam Mathematical Competition 2001-2016: Problems, Solutions and Commentary</a></li>
 <li>Kedlaya, Poonen, Vakil, <a href="http://amzn.to/2t5QeiA" target="_blank">
  Putnam Mathematical Competition 1985-2000: Problems, Solutions and Commentary</a></li>
-<li>Alexanderson, Klosinski, Larson, <a href="https://amzn.to/2Yg2Lmd" target="_blank"> 
+<li>Alexanderson, Klosinski, Larson, <a href="http://amzn.to/2Yg2Lmd" target="_blank"> 
  Putnam Mathematical Competition: Problems and Solutions 1965-1984</a></li>
-<li>Gelca, Andreescu, <a href="https://amzn.to/3wK1emu" target="_blank">
+<li>Gelca, Andreescu, <a href="http://amzn.to/3wK1emu" target="_blank">
  Putnam and Beyond</a>, 2017</li>
 <li>Larson, <a href="http://amzn.to/2u14Wf0" target="_blank">
  Problem-Solving Through Problems</a>, 1983</li>
@@ -73,7 +73,7 @@ All students with interests in the mathematical sciences are strongly encouraged
  How to Solve It: A New Aspect of Mathematical Method</a>, 2004</li>
 <li>Vakil, <a href="http://amzn.to/2FMJMai" target="_blank">
  Mathematical Mosaic: Patterns &amp; Problem Solving</a>, 2007</li>
-<li>Stanley, <a href="https://amzn.to/2V0vxoZ" target="_blank">
+<li>Stanley, <a href="http://amzn.to/2V0vxoZ" target="_blank">
  Conversational Problem Solving</a>, 2020</li>
 </ul>
 
