@@ -93,6 +93,8 @@ Misc:
 <li><a href="https://www.gmarks.org/StudentEmploymentResources.html" target="_blank">Employment resources for students</a></li>
 <li><a href="https://www.mcdonald.me.uk/storytelling/lichert_article.htm" target="_blank">Adjective Ladder</a></li>
 <li><a href="https://openaccessbutton.org/">Open Access Button</a></li>
+<li><a href="https://archive.is/">Archive.is</a></li>
+<li><a href="https://math.libretexts.org/">LibreTexts</a></li>
 </ul>
 
 Wiki:
