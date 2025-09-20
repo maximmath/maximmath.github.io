@@ -70,6 +70,11 @@ Rankings and Citations:
 <li><a href="https://www.usnews.com/best-graduate-schools/search?program=top-mathematics-programs&name=&sort=program_rank&sortdir=asc">US News Math Grad Schools Ranking</a></li>
 </ul>
 
+Other Rankings:
+<ul>
+<li><a href="https://worldpopulationreview.com/categories/education" target="_blank">World Population Review</a></li>
+</ul>
+
 Software:
 <ul>
 <li><a href="https://app.ithenticate.com" target="_blank">iThenticate</a></li>
